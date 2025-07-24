@@ -1,1 +1,1 @@
-// Conteúdo do formulário de contrato
+// Componente do formulário com geração e download

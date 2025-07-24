@@ -1,1 +1,1 @@
-// Conteúdo do dashboard do usuário
+// Dashboard do usuário

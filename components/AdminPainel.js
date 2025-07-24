@@ -1,1 +1,1 @@
-// Conteúdo do painel admin (opcional)
+// Painel administrativo opcional

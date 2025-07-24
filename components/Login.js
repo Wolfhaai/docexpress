@@ -1,1 +1,1 @@
-// Conteúdo do componente de login
+// Componente de login
