@@ -1,0 +1,1 @@
+// Conteúdo da função verificar-plano
